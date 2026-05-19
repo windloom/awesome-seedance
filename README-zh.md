@@ -1,4 +1,4 @@
-Last updated on 2026-05-18 15-35-49
+Last updated on 2026-05-19 10-41-00
 
 # Awesome Seedance 2.0 🎬
 
@@ -108,6 +108,114 @@ https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
 
 *来源：John ([@johnAGI168](https://x.com/johnAGI168)) - [推文](https://x.com/johnAGI168/status/2020415877993156966?s=20)*
 
+### 1.4. Replicate 博文：大片级电影提示词合集
+*收录自 Replicate Seedance 2.0 文章的高规模电影场景提示词。*
+
+**太空站碰撞：**
+```text
+A catastrophic collision between two massive space stations in low Earth orbit. Metal shears apart in slow motion as the stations grind into each other, sending a hailstorm of debris spiraling outward. Entire modules crumple like tin cans. Pressurized compartments blow out in violent bursts of crystallizing atmosphere. Solar panels shatter and cartwheel into the void. The camera tumbles through the wreckage as an astronaut ragdolls past, arms flailing. Explosions ripple down the station spine. Earth looms enormous in the background, serene and indifferent. Hyper-realistic, catastrophic scale, ISO debris field, 8k, Gravity collision sequence energy.
+```
+
+https://github.com/user-attachments/assets/8c6a15b7-0838-42f0-a03a-6a61194fd541
+
+**浮空集市中的空中浪人：**
+```text
+A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging passing airships, flocking griffins, and tethered trading posts. He plummets past crumbling stone arches, busy rope bridges, and cascading waterfalls, barrel-rolling through narrow gaps with precision and style. Cinematic tracking shots follow his descent, enhanced by dynamic motion blur and ethereal dappled sunlight reflecting off crystal formations and mist. The sky-city pulses with an energetic fantasy vibe—flapping wings, shouting vendors, and nonstop vertical motion. Ultra-realistic detail with an epic high-fantasy action aesthetic, capturing speed, agility, and fearless momentum through the clouds.
+```
+
+https://github.com/user-attachments/assets/fe256b9d-59b3-4873-bef0-cd08492a224b
+
+**夜雨高速公路飙车追逐：**
+```text
+A high-speed car chase on a rain-drenched highway at night. Two muscle cars weave through heavy traffic at 140mph, headlights slicing through the downpour. One car clips a semi-truck sending sparks showering across six lanes. The camera is mounted on the hood of the lead car, rain hammering the lens. Neon highway signs blur overhead. The pursuing car fishtails through a gap between two buses. Tires hydroplane on standing water. Hyper-realistic, motion blur, reflections on wet asphalt, 8k, Michael Mann cinematography.
+```
+
+https://github.com/user-attachments/assets/d059bc3e-bdab-4e3b-9618-4728c7023f06
+
+**丛林恐龙奔袭：**
+```text
+A massive dinosaur stampede through a dense jungle. Dozens of brachiosaurus and parasaurolophus crash through the tree line, their enormous bodies snapping trunks like twigs. The camera is at ground level, shaking with each thundering footstep. Dust and debris fill the air. A flock of pterodactyls bursts from the canopy overhead. The stampede parts around a fallen tree, the camera narrowly avoiding being trampled. Hyper-realistic, jungle foliage flying everywhere, Jurassic Park energy, 8k, Spielberg cinematography.
+```
+
+https://github.com/user-attachments/assets/f5fdafca-c84a-403d-8086-f56ad8f1b538
+
+**航母甲板战机弹射：**
+```text
+A fighter jet launches from an aircraft carrier at sunset. The catapult fires and the jet accelerates from zero to 170mph in two seconds, afterburners blazing blue-white. Steam erupts from the catapult track. The camera follows from the deck as the jet clears the bow and drops slightly before climbing steeply into the orange sky, leaving twin contrails. Deck crew brace against the jet blast. The ocean stretches to the horizon. Hyper-realistic, Top Gun cinematography, 8k, the screaming roar of twin turbofan engines and the metallic slam of the catapult.
+```
+
+https://github.com/user-attachments/assets/f17816af-9f97-4ac5-8764-dc21f03ff32d
+
+**远古神庙探险：**
+```text
+A lone explorer treks through an ancient overgrown temple deep in the jungle. Massive stone columns wrapped in vines tower overhead. Shafts of golden light pierce through gaps in the crumbling ceiling, illuminating floating dust and insects. The explorer pushes through a curtain of hanging roots and discovers a vast underground chamber with a still pool of water reflecting the ruins above. Fireflies drift through the space. Hyper-realistic, Indiana Jones atmosphere, 8k, epic discovery moment, dripping water echoing through the chamber.
+```
+
+https://github.com/user-attachments/assets/c8badd8a-359a-472f-93e8-702c7c4e9981
+
+**海啸袭城灾难场面：**
+```text
+A massive tidal wave crashes into a coastal city. Buildings crumble as the wall of water surges through the streets. Cars are swept up and tumble through the flood. The camera captures the destruction from a rooftop as the wave passes below, water exploding against skyscrapers. Debris and foam churn in every direction. The sky is dark with storm clouds. Hyper-realistic, catastrophic scale, 8k, Roland Emmerich disaster movie, the deafening roar of a million tons of water.
+```
+
+https://github.com/user-attachments/assets/29b00014-9e55-41f2-a21a-2abc9d7d4f39
+
+**峡谷追马戏：**
+```text
+A dramatic horseback chase through a canyon at golden hour. A rider on a black stallion gallops at full speed along a narrow ledge, red dust billowing behind them. The canyon walls tower on both sides, glowing amber in the low sun. The horse leaps over a gap in the trail, all four hooves off the ground, mane and tail streaming. The camera tracks alongside from a parallel ridge. Rocks crumble from the ledge edge. The rider looks back over their shoulder. Hyper-realistic, epic Western cinematography, 8k, thundering hooves echoing off canyon walls.
+```
+
+https://github.com/user-attachments/assets/ba3875c5-820d-4b4d-8fab-152a012bba9e
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
+
+### 1.5. Replicate 博文：时间码电影分镜
+*三个使用时间码控制镜头推进的 15 秒场景示例。*
+
+**夕阳武士：**
+```text
+[0-4s]: Low-angle wide shot from ground level, static, a lone samurai silhouetted against a blood-red sunset on a windswept ridge, tall grass bending in the wind, the distant rumble of approaching thunder.
+[4-8s]: Dolly zoom on the samurai’s face as realization hits — the background stretches and warps while the subject stays locked in frame, a Hitchcock vertigo effect, drums building.
+[8-12s]: Whip pan to a sweeping crane shot rising above the ridge, revealing an army of a thousand torches advancing through the valley below, war horns blaring, smoke drifting across the landscape.
+[12-15s]: Snap cut to extreme close-up, the samurai’s hand grips the katana hilt, knuckles white, a single drop of sweat falls in slow motion, the sound of a blade being drawn rings out, then dead silence. Hyper-realistic, 8k, Akira Kurosawa cinematography, Hans Zimmer sound design.
+```
+
+_Replicate 文章中的原始视频链接当前返回 404。_
+
+**火星着陆：**
+```text
+[0-4s]: Wide shot, static tripod, a lone astronaut stands on a red Martian plain at dusk, dust swirling at their boots, the low hum of wind across the desert.
+[4-8s]: Slow push-in to medium shot, the astronaut kneels and places a gloved hand on the soil, visor reflecting the sunset, breathing audible inside the helmet.
+[8-12s]: Hard cut to close-up of the gloved hand lifting a handful of red dust, grains falling in low gravity slow motion, each particle catching the fading light.
+[12-15s]: Extreme close-up on the visor reflection showing Earth as a tiny blue dot, static hold, a single heartbeat, then silence. Hyper-realistic, 8k, Gravity cinematography, Interstellar sound design.
+```
+
+https://github.com/user-attachments/assets/2e2ade07-4550-4b90-a558-bbb693f06e8f
+
+**霓虹东京雨夜：**
+```text
+[0-4s]: Wide establishing shot, static camera, a neon-drenched Tokyo alley at night, rain pouring, reflections pooling on wet asphalt, the distant murmur of city traffic and rain hitting metal awnings.
+[4-8s]: Medium shot, slow dolly forward, a figure in a black trench coat walks toward camera under a red paper umbrella, neon signs flickering on their face.
+[8-12s]: Seamless morph into close-up tracking shot, the figure’s hand drops the umbrella, rain hits their face, they look up at the sky, the sound of rain intensifies.
+[12-15s]: Hard cut to extreme close-up of raindrops hitting a neon puddle in slow motion, each drop exploding into rings of reflected color, bass rumble fading to silence. Hyper-realistic, 8k, Blade Runner 2049 cinematography, Roger Deakins lighting.
+```
+
+https://github.com/user-attachments/assets/bb611dd2-d31c-44b5-8506-50dcfe3d0193
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
+
+### 1.6. 爵士钢琴演奏与原生音频同步
+*展示 Seedance 2.0 在乐器声、环境声与镜头调度上的原生同步能力。*
+
+**提示词：**
+```text
+A close-up of a jazz pianist’s hands flying across the keys of a grand piano in a smoky nightclub. Each keystroke produces a visible ripple of warm amber light across the piano’s lacquered surface. The camera slowly pulls back to reveal the full band — upright bass, drums with brushes, a tenor saxophone. The musicians nod to each other, trading solos. Cigarette smoke curls through a single spotlight beam. Hyper-realistic, intimate jazz club atmosphere, 8k, the crisp attack of piano keys, walking bassline, brushed snare, breathy saxophone melody.
+```
+
+https://github.com/user-attachments/assets/8f0ca34c-183a-44c5-b5a8-7b5685557b92
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
+
 ---
 
 ## 2. 广告与商业品牌
@@ -216,6 +324,21 @@ https://github.com/user-attachments/assets/7c8e24b9-b203-417f-b18a-6a1611d7871a
 
 *来源：卡尔的AI沃茨 - [微信文章](https://mp.weixin.qq.com/s/d2YgM-7vVMQaRP67MtZVdQ)*
 
+### 2.8. Replicate 博文：时间码香水广告
+*把香水广告拆成四个镜头，适合做高质感商品展示。*
+
+**提示词：**
+```text
+(0-3s) Macro shot of a luxury perfume bottle among scattered pink peonies, shallow depth of field, petals floating in warm afternoon light, soft ambient music.
+(3-7s) Camera glides closer, a feminine hand enters frame from the right, fingers gently touch the glass bottle, the sound of silk rustling.
+(7-12s) Hard cut to slow-motion spray, golden mist diffuses through the air, particles catching rim light against a dark background, the hiss of the atomizer.
+(12-15s) Seamless pull-out to hero frame, product centered, volumetric lighting, minimal cream background, elegant silence. Hyper-realistic, 8k, fashion commercial cinematography.
+```
+
+https://github.com/user-attachments/assets/a3251b68-4b36-4698-a042-e4f4a74b948d
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
+
 ---
 
 ## 3. 社交媒体与病毒式模因
@@ -245,6 +368,18 @@ https://github.com/user-attachments/assets/7c8e24b9-b203-417f-b18a-6a1611d7871a
 https://github.com/user-attachments/assets/2c0688fe-7733-4a20-8f1d-ec0d5c60527c
 
 *来源：John ([@johnAGI168](https://x.com/johnAGI168)) - [推文](https://x.com/johnAGI168/status/2020717903134204344?s=20)*
+
+### 3.2. 酸面团椒盐卷饼街头对白
+*生活化街头场景，带有强调文字和清晰口型同步，很适合做 meme 式短视频。*
+
+**提示词：**
+```text
+A tight medium shot of two eccentric adults in typical, everyday clothing—one in a slightly oversized trench coat, the other in a weathered denim jacket—deep in a heated, animated conversation on a rainy West Village street corner. The one in the trench coat gestures wildly, the words “SOURDOUGH PRETZEL” appearing in pulsating electric blue: “It’s not just a pretzel, Arthur! It’s a sourdough pretzel!” The second guy says ‘Who cares. A pretzel’s a pretzel!’
+```
+
+https://github.com/user-attachments/assets/b2642150-c6ff-48c5-b9b5-e33ed1f65862
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
 
 ---
 
@@ -276,6 +411,18 @@ https://github.com/user-attachments/assets/2c0688fe-7733-4a20-8f1d-ec0d5c60527c
 https://github.com/user-attachments/assets/74c700e7-9371-4c1c-becf-ca3f9aadb357
 
 *来源：John ([@johnAGI168](https://x.com/johnAGI168)) - [推文](https://x.com/johnAGI168/status/2020788951678607813?s=20)*
+
+### 4.2. 参考角色入室并驱动口播
+*用参考图和参考音频，把风格化角色放进写实室内场景并直接说出台词。*
+
+**提示词：**
+```text
+[Image2] is in the interior of [Image1] where he is kept the style of [Image2], but the realism of [Image1] remains. He says [Audio1].
+```
+
+https://github.com/user-attachments/assets/925597eb-104e-4c35-88d2-79fe07400513
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
 
 ---
 
@@ -597,6 +744,48 @@ https://github.com/user-attachments/assets/76a2b32a-a7c7-42f7-af08-ea7ddcf3fed9
 - 打斗动作流畅，画风一致
 
 *来源：卡尔的AI沃茨 - [微信文章](https://mp.weixin.qq.com/s/d2YgM-7vVMQaRP67MtZVdQ)*
+
+### 7.2. 多张参考图的流体 Morph 过渡
+*一个非常简短的提示词，就能把多张图片转成连贯的动态过渡。*
+
+**提示词：**
+```text
+Create fluid morphs between all of the photos
+```
+
+https://github.com/user-attachments/assets/0833cba8-86b3-4f09-ba2c-b435319d8cd7
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
+
+### 7.3. 轨道碰撞物理效果研究
+*强调碎片逻辑、失重翻滚与灾难级尺度感的太空站碰撞版本。*
+
+**提示词：**
+```text
+A catastrophic collision between two massive space stations in low Earth orbit. Metal shears apart in slow motion as the stations grind into each other, sending a hailstorm of debris spiraling outward. Entire modules crumple like tin cans. Pressurized compartments blow out in violent bursts of crystallizing atmosphere. Solar panels shatter and cartwheel into the void. The camera tumbles through the wreckage as an isolated astronaut in a white EVA suit ragdolls past, arms flailing helplessly. Explosions ripple down the station’s spine. Earth looms enormous in the background, serene and indifferent. Hyper-realistic, catastrophic scale, orbital debris field, 8k, Gravity collision sequence energy.
+```
+
+https://github.com/user-attachments/assets/b83abbf5-81c9-4ab8-a196-b050a3207d8d
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
+
+### 7.4. Image-to-Video 物理动画示例
+*两个 `Animate this image` 示例，分别展示写实场景和风格化场景中的运动物理。*
+
+**提示词：**
+```text
+Animate this image
+```
+
+**示例 A：越野车辆场景**
+
+https://github.com/user-attachments/assets/0b615e52-1eff-4892-8b78-205816bfb873
+
+**示例 B：油画风水面场景**
+
+https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
+
+*来源：Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
 
 ---
 
